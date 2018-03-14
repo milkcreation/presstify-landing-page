@@ -1,0 +1,7 @@
+# Nom du fichier de template d'affichage de la landing page (sans extension)
+template:         'landing-page'
+#Liste des logins utilisateurs autorisés à afficher le reste site et pas la landing page
+#(bool) false => aucun, true : Tous les utilisateurs connectés | (array) Liste des login utilisateurs habilités 
+allow_logged_in:  false
+# Expiration d'affichage de la landing page ( Format: YYYY-MM-DD HH:ii:ss )
+expiration:       ''
