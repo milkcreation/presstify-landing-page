@@ -1,0 +1,27 @@
+{
+  "name": "presstify-plugins/landing-page",
+  "description": "PresstiFy Plugin LandingPage",
+  "type": "presstify-plugins",
+  "keywords": ["presstify", "plugins", "wordpress", "landing-page"],
+  "homepage": "http://svn.milkcreation.fr/presstify-plugins/landing-page",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jordy Manner",
+      "email": "jordy.manner@milkcreation.fr",
+      "role": "Developper"
+    }
+  ],
+  "config" : {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "tiFy\\Plugins\\LandingPage\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
