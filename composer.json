@@ -3,8 +3,7 @@
   "description": "PresstiFy Plugin LandingPage",
   "type": "presstify-plugins",
   "keywords": ["presstify", "plugins", "wordpress", "landing-page"],
-  "homepage": "http://svn.milkcreation.fr/presstify-plugins/landing-page",
-  "license": "proprietary",
+  "homepage": "https://github.com/milkcreation/presstify-landing-page.git",
   "authors": [
     {
       "name": "Jordy Manner",
